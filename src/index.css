@@ -13,3 +13,8 @@ code {
   font-family: 'Montserrat', sans-serif, source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a:hover {
+  color: #DAD4EF;
+  text-decoration: none;
+}

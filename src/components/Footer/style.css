@@ -1,0 +1,18 @@
+.custom-footer {
+    background-color: #A7C4A0;
+    color: #E0E0E2;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer-link {
+    color: #37393A;
+    margin: 5px;
+}
+
+.img {
+    float:  left;
+    width:  100%;
+    height: 100%;
+    background-size: cover;
+}
