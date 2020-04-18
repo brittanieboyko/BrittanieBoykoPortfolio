@@ -1,0 +1,13 @@
+#aboutMe {
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+#contact,
+#contact:visited {
+    color: #37393A;
+    text-decoration: none;
+}
+#contact:hover {
+    color: #DAD4EF;
+}

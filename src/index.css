@@ -9,9 +9,9 @@ body {
   color: #37393A; 
 }
 
-code {
-  font-family: 'Montserrat', sans-serif, source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h2, h1 {
+  color: #2E303E;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a:hover {
