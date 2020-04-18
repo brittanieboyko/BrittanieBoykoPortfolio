@@ -18,3 +18,13 @@ a:hover {
   color: #DAD4EF;
   text-decoration: none;
 }
+
+.custom-button {
+  background-color: #37393A;
+  color: #E0E0E2;
+  border: none;
+}
+
+.custom-button:hover {
+  background-color: #DAD4EF;
+}
