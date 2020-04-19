@@ -4,41 +4,41 @@
       "name": "Amazing (Space) Project",
       "project": "https://brittanieboyko.github.io/Amazing_Project/",
       "repo": "https://github.com/brittanieboyko/Amazing_Project",
-      "image": "assets/images/apodScreenshot.png"
+      "image": "assets/apodScreenshot.png"
     },
     {
       "id": 2,
       "name": "Password Generator",
-      "project": "https://brittanieboyko.github.io/passwordGenerator/",
-      "repo": "https://github.com/brittanieboyko/passwordGenerator",
-      "image": "assets/images/passGenerator.png"
+      "project": "https://brittanieboyko.github.io/p../../asswordGenerator/",
+      "repo": "https://github.com/brittanieboyko/p../../asswordGenerator",
+      "image": "../../assets/passGenerator.png"
     },
     {
       "id": 3,
       "name": "Workday Planner",
       "project": "https://brittanieboyko.github.io/day-planner/",
       "repo": "https://github.com/brittanieboyko/day-planner",
-      "image": "assets/images/workDayPlanner.png"
+      "image": "../../assets/workDayPlanner.png"
     },
     {
       "id": 4,
       "name": "App-etizer",
       "project": "https://recipe-track.herokuapp.com/",
       "repo": "https://github.com/kaydeejay/app-etizer",
-      "image": "assets/images/appetizer.png"
+      "image": "../../assets/appetizer.png"
     },
     {
       "id": 5,
       "name": "Coding Quiz",
       "project": "https://brittanieboyko.github.io/CodeQuiz/",
       "repo": "https://github.com/brittanieboyko/CodeQuiz",
-      "image": "assets/images/quiz.png"
+      "image": "../../assets/quiz.png"
     },
     {
       "id": 6,
       "name": "Eat Da Burger",
       "project": "https://calm-ravine-62059.herokuapp.com/",
       "repo": "https://github.com/brittanieboyko/burger",
-      "image": "assets/images/eatDaBurg.png"
+      "image": "../../assets/eatDaBurg.png"
     }
   ]
