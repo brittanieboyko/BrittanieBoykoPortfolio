@@ -1,7 +1,6 @@
 # Portfolio
-======
+======================= <br /><br />
 Welcome to my Portfolio page! This is my personal website.
-
 
 ## Domains
 * This website is currently being hosted on [Heroku](https://heroku.com/) at [https://brittanieboyko.herokuapp.com/]
