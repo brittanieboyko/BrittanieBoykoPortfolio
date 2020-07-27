@@ -4,14 +4,18 @@
     background-color: #A7C4A0;
 }
 
-.nav-link:hover,
-.nav-item:hover {
+.nav-link {
+    color: #DAD4EF;
+}
+
+.nav-link:hover {
     color: #DAD4EF;
 }
 
 #myName {
     font-family: 'Montserrat', sans-serif;
     color: #DAD4EF;
-    margin: 0 2%;
+    /* text-align: center!important; */
+    /* margin: 0 2%; */
     font-size: 30px;
 }
