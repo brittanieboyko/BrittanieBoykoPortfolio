@@ -24,12 +24,7 @@ function NavBar() {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          <Link to="/about" className="nav-item nav-link">
-            About
-          </Link>
-          <Link to="/contact" className="nav-item nav-link">
-            Contact
-          </Link>
+
         </div>
       </div>
     </nav>
