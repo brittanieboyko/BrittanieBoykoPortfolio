@@ -15,7 +15,7 @@ function Header(props) {
           </Link>
         </h2>
         <h2>
-          And get in touch
+          And get in touch{" "}
           <a
             href="mailto:brittanie.boyko@gmail.com?subject=Hello"
             className="footer-link"
