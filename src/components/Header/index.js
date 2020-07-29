@@ -4,7 +4,7 @@ import "./style.css";
 
 function Header(props) {
   return (
-    <div className="container text-center" id="aboutMe">
+    <div className="text-center" id="aboutMe">
       <div className="col-md-12">
         <h2>I live in Philadelphia, PA</h2>
         <h2>I'm a Web Developer</h2>

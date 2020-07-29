@@ -5,7 +5,6 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer fixed-bottom custom-footer">
-      <div className="container">
         <span>
           <a href="https://github.com/brittanieboyko/" className="footer-link">
             Github
@@ -35,7 +34,6 @@ function Footer() {
             Email
           </a>
         </span>
-      </div>
     </footer>
   );
 }
