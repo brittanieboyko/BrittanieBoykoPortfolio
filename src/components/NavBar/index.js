@@ -13,7 +13,7 @@ function NavBar() {
         Brittanie Boyko
       </Link>
       </nav>
-      <nav class="nav">
+      <nav className="nav">
         <Link to="/about" className="nav-link mx-auto text-uppercase">
             About
         </Link>

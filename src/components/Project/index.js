@@ -7,7 +7,7 @@ function Project(props) {
       <div className="row">
         {props.projects.map((project) => (
           <div
-            className="card col-lg-4 col-md-4 col-sm-6 col-xs-12 image-spacing flex-column d-flex text-center custom-card"
+            className="col-lg-4 col-md-4 col-sm-6 col-xs-12 image-spacing flex-column d-flex text-center"
             key={project.id}
           >
             <div className="hovereffect">
