@@ -19,7 +19,7 @@ function Project(props) {
               </a>{" "}
               |{" "}
               <a href={project.repo} className="project-link content-text">
-                GitHub Repo
+                Code
               </a>
             </div>
           </div>
