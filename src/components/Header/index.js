@@ -14,13 +14,16 @@ function Header(props) {
             Here
           </Link>
         </h2>
-        <h2>And get in touch 
-        <a
+        <h2>
+          And get in touch
+          <a
             href="mailto:brittanie.boyko@gmail.com?subject=Hello"
-            className="footer-link" id="bioLink"
+            className="footer-link"
+            id="bioLink"
           >
             Here
-          </a></h2>
+          </a>
+        </h2>
       </div>
     </div>
   );
