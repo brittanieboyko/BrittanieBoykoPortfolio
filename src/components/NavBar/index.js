@@ -14,10 +14,10 @@ function NavBar() {
       </Link>
       </nav>
       <nav class="nav">
-        <Link to="/about" className="nav-link mx-auto">
+        <Link to="/about" className="nav-link mx-auto text-uppercase">
             About
         </Link>
-        <Link to="/contact" className="nav-link mx-auto">
+        <Link to="/projects" className="nav-link mx-auto text-uppercase">
           Work
         </Link>
       </nav>
