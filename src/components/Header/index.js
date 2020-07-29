@@ -9,12 +9,18 @@ function Header(props) {
         <h2>I live in Philadelphia, PA</h2>
         <h2>I'm a Web Developer</h2>
         <h2>
-          Get in touch{" "}
-          <Link to="/contact" id="contact">
+          Check out some of my projects{" "}
+          <Link to="/projects" id="projects">
             Here
           </Link>
         </h2>
-        <h2>And check out some of my Projects</h2>
+        <h2>And get in touch 
+        <a
+            href="mailto:brittanie.boyko@gmail.com?subject=Hello"
+            className="footer-link"
+          >
+            Here
+          </a></h2>
       </div>
     </div>
   );

@@ -3,11 +3,11 @@
     margin-bottom: 4%;
 }
 
-#contact,
-#contact:visited {
+#projects,
+#projects:visited {
     color: #37393A;
     text-decoration: none;
 }
-#contact:hover {
+#projects:hover {
     color: #DAD4EF;
 }
