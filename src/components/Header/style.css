@@ -3,11 +3,11 @@
     margin-bottom: 4%;
 }
 
-#projects,
-#projects:visited {
-    color: #37393A;
+#bioLink,
+#bioLink:visited {
+    color: #7DA2A9;
     text-decoration: none;
 }
-#projects:hover {
-    color: #DAD4EF;
+#bioLink:hover {
+    color: #7DA2A9;
 }

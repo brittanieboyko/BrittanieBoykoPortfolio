@@ -5,15 +5,15 @@ function Project(props) {
   return (
     <div>
         {props.projects.map((project) => (
-            <div class="container" key={project.id}>
-            <div class="content">
-                <div class="content-overlay"></div>
+            <div className="container" key={project.id}>
+            <div className="content">
+                <div className="content-overlay"></div>
                 <div
                 className="img content-image"
                 style={{ backgroundImage: `url(${project.image})` }}
               ></div>
-                <div class="content-details fadeIn-top">
-                    <h3 class="content-title">{project.name}</h3>
+                <div className="content-details fadeIn-top">
+                    <h3 className="content-title">{project.name}</h3>
                     <a href={project.project} className="custom-button content-text">
                   Project
                 </a>

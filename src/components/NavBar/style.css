@@ -1,11 +1,11 @@
 .custom-nav,
 .navbar-nav,
 .collapse {
-    background-color: #A7C4A0;
+    background-color: #F7F7F7;
 }
 
 .nav-link {
-    color: #DAD4EF;
+    color: #7DA2A9;
 }
 
 .nav-link:hover {
@@ -14,6 +14,6 @@
 
 #myName {
     font-family: 'Montserrat', sans-serif;
-    color: #DAD4EF;
+    color: #7DA2A9;
     font-size: 40px;
 }
