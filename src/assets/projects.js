@@ -23,24 +23,24 @@ const projects = [
     },
     {
       "id": 4,
+      "name": "Eat Da Burger",
+      "project": "https://calm-ravine-62059.herokuapp.com/",
+      "repo": "https://github.com/brittanieboyko/burger",
+      "image": require("./eatDaBurg.png")
+    },
+    {
+      "id": 5,
       "name": "App-etizer",
       "project": "https://recipe-track.herokuapp.com/",
       "repo": "https://github.com/kaydeejay/app-etizer",
       "image": require("./appetizer.png")
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Coding Quiz",
       "project": "https://brittanieboyko.github.io/CodeQuiz/",
       "repo": "https://github.com/brittanieboyko/CodeQuiz",
       "image": require("./quiz.png")
-    },
-    {
-      "id": 6,
-      "name": "Eat Da Burger",
-      "project": "https://calm-ravine-62059.herokuapp.com/",
-      "repo": "https://github.com/brittanieboyko/burger",
-      "image": require("./eatDaBurg.png")
     }
   ]
 
