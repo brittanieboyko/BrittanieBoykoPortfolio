@@ -9,10 +9,10 @@ const projects = [
     },
     {
       "id": 2,
-      "name": "Password Generator",
-      "project": "https://brittanieboyko.github.io/passwordGenerator/",
-      "repo": "https://github.com/brittanieboyko/passwordGenerator",
-      "image": require("./passGenerator.png")
+      "name": "Game Finder",
+      "project": "https://game-finder-2020.herokuapp.com/",
+      "repo": "https://github.com/mms211/Game-Finder",
+      "image": require("./gameFinder.png")
     },
     {
       "id": 3,
