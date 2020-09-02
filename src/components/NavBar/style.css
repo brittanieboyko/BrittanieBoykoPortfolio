@@ -1,19 +1,19 @@
 .custom-nav,
 .navbar-nav,
 .collapse {
-    background-color: #F7F7F7;
+    background-color: #FCDBDB;
 }
 
 .nav-link {
-    color: #7DA2A9;
+    color: #FC332C;
 }
 
 .nav-link:hover {
-    color: #37393A;
+    color: #FC7C7C;
 }
 
 #myName {
     font-family: 'Space Mono', monospace;
-    color: #7DA2A9;
+    color: #FC332C;
     font-size: 40px;
 }

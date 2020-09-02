@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #F7F7F7;
+  background-color: #FCDBDB;
   font-family: 'Work Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -18,6 +18,6 @@ h2, h1 {
 }
 
 a:hover {
-  color: #37393A;
+  color: #FC7C7C;
   text-decoration: none;
 }
