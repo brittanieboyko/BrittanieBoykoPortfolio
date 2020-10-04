@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #FCDBDB;
+  background-color: #f8dfdb;
   font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -14,7 +14,7 @@ body {
 
 h2, h1 {
   color: #2E303E;
-  font-family: 'Marcellus', serif;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 a:hover {

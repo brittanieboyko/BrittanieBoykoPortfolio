@@ -1,11 +1,11 @@
 .custom-nav,
 .navbar-nav,
 .collapse {
-    background-color: #FCDBDB;
+    background-color: #f8dfdb;
 }
 
 .nav-link {
-    color: #FC332C;
+    color: #fc221c;
 }
 
 .nav-link:hover {
@@ -13,7 +13,7 @@
 }
 
 #myName {
-    font-family: 'Marcellus', serif;
-    color: #FC332C;
+    font-family: 'Cormorant Garamond', serif;
+    color: #fc221c;
     font-size: 40px;
 }
